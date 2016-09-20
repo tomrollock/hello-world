@@ -1,2 +1,4 @@
 # hello-world
-I am learning
+I am learning.
+This will be useful for my future professional development.
+I describe my changes.
